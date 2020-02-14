@@ -1,0 +1,9 @@
+.Rule {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 80px;
+    background-color: pink;
+    padding: 1em 1em;
+}
